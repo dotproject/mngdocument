@@ -1,4 +1,4 @@
-<?php /* FILES $Id: index.php,v 1.27 2003/12/09 00:17:16 gregorerhardt Exp $ */
+<?php /* FILES $Id: index.php,v 1.1 2004/08/30 19:02:41 edeisoft Exp $ */
 $AppUI->savePlace();
 
 $ListaAbierta = dPgetParam( $_GET, 'ListaAbierta', '' );
